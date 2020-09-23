@@ -1,1 +1,1 @@
-# REST-jquery
+### Simple web app that uses the JAX-RS Rest Client to consume a web service and displays the returned data using jQuery. 
